@@ -130,9 +130,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ⚠️ Important Notes
 
@@ -156,9 +153,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
+karthik - karthikkattera8688@gmail.com
 
-Project Link: [https://github.com/YOUR_USERNAME/ai-chat-assistant](https://github.com/YOUR_USERNAME/ai-chat-assistant)
+Project Link: [https://github.com/katherakarthik/ai-chat-assistant](https://github.com/YOUR_USERNAME/ai-chat-assistant)
 
 ## 🙏 Acknowledgments
 
@@ -168,4 +165,4 @@ Project Link: [https://github.com/YOUR_USERNAME/ai-chat-assistant](https://githu
 
 ---
 
-Made with ❤️ by [Karthik]
+Made with ❤️ by Kathera Karthik
